@@ -1,0 +1,10 @@
+{
+    "DB_NAME":"<to_fill>",
+    "ACL_TB_NAME":"<to_fill>",
+    "USER_TB_NAME":"<to_fill>",
+    "PERSIST_TB_NAME":"<to_fill>",
+    "BROKER_USER":"<to_fill>",
+    "BROKER_PASS":"<to_fill>",
+    "HOST":"<to_fill>",
+    "PORT":"<to_fill>"
+}

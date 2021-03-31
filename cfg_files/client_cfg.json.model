@@ -1,0 +1,7 @@
+{   
+    "USER":"<to_fill>",
+    "PASS":"<to_fill>",
+    "HOST":"<to_fill>",
+    "PORT":<to_fill>,
+    "KEEP_ALIVE":<to_fill>
+}
